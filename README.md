@@ -5,16 +5,14 @@
 
 #  About Me
 
- 👩‍💻a passionate and curious **Data Scientist & Analyst** 
- 
- 🎓 Final-year Master's student in Computational Statistics & Data Analytics (Batch 2023–25)
- 
- 🤝 Eager to collaborate on innovative projects that create real-world impact
+👩‍💻 A passionate and curious Data Scientist & Analyst
 
- 🌍 Open to **internships, freelance gigs, and remote opportunities** in data-driven fields
+🎓 Master's student in Computational Statistics & Data Analytics (Batch 2023–25)
 
-🎯 **Currently focused on:**  
-- 🧠 NLP and Behavioral Science  
+🌱 Continuously learning and exploring intersections of AI, NLP, and Behavioral Science
+
+🤝 Actively looking for **job opportunities, internships, or freelance roles** in data-driven fields  
+  
   
 
 ## 💼 Skills & Tools
@@ -48,14 +46,7 @@
 -  ANPR System(Automatic Number Plate Recognition )
 -  Amazon Prime Content Analysis Dashboard
 -  Enhancing Tourist Experiences using Social Media Analytics and Deep Learning
-
----
-
-## 🧪 Research Interests
-- NLP + Psychology: Text-based Personality Assessment  
-- AI for Social Behavior Understanding  
-- Cognitive Decline Detection via Speech/Text  
-
+ 
 ---
 
 ## 🎨 Hobbies & Interests
